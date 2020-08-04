@@ -36,7 +36,7 @@ public class TestAnimal {
 
     public static void main(String[] args) {
 
-        new Animal();
+       // new Animal();
 
         TestAnimal test = new TestAnimal();
         test.makeSound(new Dog());
