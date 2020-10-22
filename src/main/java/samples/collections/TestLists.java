@@ -17,7 +17,6 @@ public class TestLists {
     // array list
     List<Integer> integers = Arrays.asList(7,2,6,4,5,7,3,1,0,-20);
     System.out.println(integers);
-    System.out.println(integers.getClass().getName());  
   
     // hash set
     Set<Integer> sIntegers = new HashSet<>(integers);
